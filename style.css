@@ -67,7 +67,7 @@
 }
 .addcart-btn{
     /* padding-left: 2; */
-    margin-left:4.5rem;
+    /* margin-left:4.5rem; */
     border-radius: 18px;
 }
 .mid-img{
@@ -141,4 +141,13 @@
     width: 100%;
     height: 100%;
     margin-left: 0.5rem;
+}
+.col{
+    margin-bottom: 0.5rem;
+}
+.about-h5{
+    padding-top: 3rem;
+}
+.about-p{
+    padding-bottom: 1rem;
 }
