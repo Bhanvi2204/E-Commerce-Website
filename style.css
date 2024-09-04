@@ -27,7 +27,7 @@
     font-family: 'Times New Roman', Times, serif;
 }
 .showpBtn{
-    border-radius:15%;
+    border-radius:18px;
     background-color: white;
     color: black;
 }
@@ -68,6 +68,7 @@
 .addcart-btn{
     /* padding-left: 2; */
     margin-left:4.5rem;
+    border-radius: 18px;
 }
 .mid-img{
     width: 100%;
@@ -78,4 +79,66 @@
     width: 100%;
     height: 20rem ;
     
+}
+.card-group{
+    width: 80%;
+    padding: 1rem;
+    margin-left: 8rem;
+}
+.card{
+    margin: 0.5rem;
+}
+.nav_icons .cart{
+    color: black;
+}
+.read_btn{
+    border-radius: 18px;
+    border-color: grey;
+    background-color: white;
+    color: grey;
+}
+
+.card-body{
+    text-align: center;
+}
+
+.add-btn{
+    border-radius: 18px;
+}
+
+.buy-btn{
+    border-radius: 18px;
+    background-color: white;
+    border: none;
+    margin-left: 6rem;
+}
+.bg-card-h5{
+    color: white;
+    text-align: left;
+    align-items: center;
+    font-size: 30px;
+}
+.bg-overlay{
+    margin: 4rem;
+}
+.sale-text{
+    text-align: left;
+    color: white;
+    font-size: 50px;
+}
+.about_us-card{
+    width: 99%;
+    border: none;
+    background-color: rgb(245, 242, 242);
+}
+.about-us{
+    width: 380px;
+    height: 250px;
+    margin: 2rem;
+   
+}
+.about-us-img{
+    width: 100%;
+    height: 100%;
+    margin-left: 0.5rem;
 }
