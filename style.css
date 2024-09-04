@@ -144,10 +144,25 @@
 }
 .col{
     margin-bottom: 0.5rem;
+    padding-left: 0.5rem;
 }
 .about-h5{
     padding-top: 3rem;
 }
 .about-p{
     padding-bottom: 1rem;
+}
+.bestimg{
+    width: 250px;
+    height: 250px;
+}
+.image-section{
+    display: flex;
+    align-items: top;
+}
+.pop_head{
+    background-color: beige;
+}
+.img_desc{
+    text-align: center;
 }
